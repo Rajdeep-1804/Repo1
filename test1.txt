@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 90F5-4C94
+
+ Directory of C:\Users\rajfa\Desktop\Git Practice
+
+06-11-2024  16:10    <DIR>          .
+06-11-2024  15:56    <DIR>          ..
+06-11-2024  16:10                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  116,422,385,664 bytes free
